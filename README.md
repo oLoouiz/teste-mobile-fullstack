@@ -71,7 +71,9 @@ Inclua no seu repositório uma resposta para as seguintes perguntas:
     * Realize o pull request da sua branch nesse repositório
 - Você pode pesquisar à vontade — o que nos importa é **seu raciocínio**!
 - Se não conseguir completar tudo, envie o que conseguiu. Avaliaremos o seu entendimento, não um produto final completo.
-Obs.: Se tiver qualquer dificuldade para subir seu teste no GitHub, sem problemas! Você pode enviar todos os arquivos e materiais diretamente para: contato@inminds.com.br. Estamos aqui para facilitar, não complicar. 😉
+
+**Observação:** Se tiver qualquer dificuldade ao subir seu teste no GitHub, sem problemas! Você pode enviar os arquivos diretamente para: contato@inminds.com.br. Estamos aqui para facilitar, não complicar. 😉
+
 
 ---
 
