@@ -62,11 +62,16 @@ Inclua no seu repositório uma resposta para as seguintes perguntas:
 ## 🚀 Entrega
 
 - Tempo sugerido: até 2 horas
-- Entrega via:
-  - Repositório GitHub (público ou link direto)
-  - Ou arquivo ZIP
+- Para realizar a entrega do teste você deve:
+  - Realize o fork e clocar esse repositório para a sua maquina
+    * Criar uma branch com o nome de `teste/[SEU NOME]`
+    * `[SEU NOME]`: Seu nome
+    * Exemplo: `teste/fulano-da-silva`;
+    * Faça um commit da sua branch com a implementação do teste  
+    * Realize o pull request da sua branch nesse repositório
 - Você pode pesquisar à vontade — o que nos importa é **seu raciocínio**!
 - Se não conseguir completar tudo, envie o que conseguiu. Avaliaremos o seu entendimento, não um produto final completo.
+Obs.: Se tiver qualquer dificuldade para subir seu teste no GitHub, sem problemas! Você pode enviar todos os arquivos e materiais diretamente para: contato@inminds.com.br. Estamos aqui para facilitar, não complicar. 😉
 
 ---
 
