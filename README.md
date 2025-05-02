@@ -61,7 +61,7 @@ Inclua no seu repositório uma resposta para as seguintes perguntas:
 
 ## 🚀 Entrega
 
-- Tempo sugerido: até 2 horas
+- Tempo sugerido: até Domingo de noite
 - Para realizar a entrega do teste você deve:
   - Realize o fork e clocar esse repositório para a sua maquina
     * Criar uma branch com o nome de `teste/[SEU NOME]`
