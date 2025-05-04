@@ -1,0 +1,6 @@
+2025-05-04 17:03:02 - Teste
+2025-05-04 17:03:17 - ✅ Tarefa Adicionada: ❌ Teste | Prioridade: Baixa | Data: 25/12/2052
+2025-05-04 17:03:30 - ✅ Tarefa Adicionada: ❌ Teste2 | Prioridade: Alta | Data: 25/02/2003
+2025-05-04 17:03:37 - ✅ Tarefa Concluída: ✅ Teste2 | Prioridade: Alta | Data: 25/02/2003
+2025-05-04 17:03:42 - 🗑 Tarefa Removida: ❌ Teste | Prioridade: Baixa | Data: 25/12/2052
+2025-05-04 17:03:45 - 🗑 Tarefa Removida: ✅ Teste2 | Prioridade: Alta | Data: 25/02/2003
