@@ -1,0 +1,35 @@
+Vídeo disponível em: https://youtu.be/ogqoiXWYnuA
+
+1 - Qual linguagem escolheu e por quê?
+Eu escolhi Python pela praticidade e por já ter uma certa familiaridade com a linguagem.
+Como o foco do desafio não era criar uma interface visual, optei por fazer tudo no terminal mesmo, o que me permitiu concentrar mais na lógica, na estrutura do código e em aplicar os conceitos de orientação a objetos.
+
+2 - O que é orientação a objetos e quais seus 4 pilares?
+
+Orientação a objetos é uma forma de programar onde você organiza o código em torno de objetos, que representam entidades com caracteristicas e comportamentos. Isso facilita a reutilização e organização do código.
+
+Os pilares são:
+Abstração, Encapsulamento, Herança e Polimorfismo.
+A abstração é mostrar só o necessário, como quando eu usei o método concluir() em vez de mudar o valor da variável manualmente
+Encapsulamento: Mantem os dados dentro do objeto, acessando e alterando através de métodos (com o .self por exemplo)
+Herança: Quando uma classe herda comportamentos de outra (acabei não usando nesse código, mas é um conceito bem importante)
+Polimorfismo: A capacidade de usar o mesmo nome de método com comportamentos diferentes.
+
+3 - Diferenças de banco de dados relacional e não relacional:
+O relacional é baseado em tabelas com linhas e colunas e usam SQL pra consultas. 
+Já o não não relacional não usa esse formato de tabela regrado com linhas e colunas, como é o caso de bancos orientados a documentos, que armazenam os dados em formatos tipo JSON.
+Nesse meu projeto, como era algo mais simples, eu optei por salvar em um arquivo .json. A estrutura é parecida com um banco não relacional, só que mais básico por ser salvo localmente direto no disco.
+
+4 - O que são os métodos GET, POST e DELETE em uma API REST?
+
+Get: Buscar dados, pra fazer consultas. 
+Por exemplo: listar todas as tarefas
+
+Post: Adicionar novo dado 
+Por exemplo: Adicionar nova tarefa
+
+Put: atualizar um dado que já existe. 
+Por exemplo: Marcar uma tarefa como concluída
+
+Delete: Apagar um dado 
+Por exemplo: Remover uma tarefa da lista
